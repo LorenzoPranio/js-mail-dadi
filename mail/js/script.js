@@ -23,8 +23,8 @@ for (let i = 0; i < authorized_email.length; i++){
 //Mostro il messaggio corrispondente a seconda della FLAG
 
 if (found_email === true){
-    console.log ('Email autorizzata')
+   document.getElementById('positive').innerHTML = "Email autorizzata";
 }
 else {
-    console.log ('Email non autorizzata')
+   document.getElementById('negative').innerHTML = "Email non autorizzata";
 }
