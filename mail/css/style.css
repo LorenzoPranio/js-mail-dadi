@@ -3,3 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.positive{
+    color: rgb(23, 172, 23);
+}
+
+.negative{
+    color: rgb(204, 12, 12);
+}
