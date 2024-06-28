@@ -15,3 +15,9 @@ Consigli del giorno:
 
 
 |SOLUZIONE|
+
+1.>Creare un ARREY vuoto
+
+2.>Creare un CICLO FOR per riempire l'array con il math random
+
+3.>Creo un CICLO FOR per confrontare i numeri all'interno dell'ARRAY
