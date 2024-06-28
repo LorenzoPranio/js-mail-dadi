@@ -2,11 +2,11 @@
 
 let email = prompt('Inserisci la tua mail');
 
-console.log(email)
+console.log(email);
 
 //Creo una FLAG impostata su FALSE
 
-
+let found_email = false;
 
 //Creare un ARREY con la lista delle mail
 
